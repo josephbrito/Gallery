@@ -2,6 +2,6 @@
 
 * Projeto simples feito com HTML e estilizado com o SASS
 
-![sass](https://user-images.githubusercontent.com/84200694/150042736-4197363b-887f-4faa-8966-f869ba040468.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/84200694/151707740-29ed1cae-fd1f-4fa1-a01a-b3cca8f0b79d.gif)
 
 * simples porém elegante, dê uma olhada :)
